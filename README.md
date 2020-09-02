@@ -16,7 +16,7 @@ set environment variables before boot.
 ```
 MONGODB_USER:[MongoDB's user name]
 MONGODB_PASS:[MongoDB's user password]
-MONGODB_TABLE_NAME:[MongoDB's target table name]
+MONGODB_DATABASE_NAME:[MongoDB's target table name]
 ```
 
 ## Usage
