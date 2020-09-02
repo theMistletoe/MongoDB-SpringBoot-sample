@@ -7,7 +7,9 @@ this is based on [this link](https://stackabuse.com/spring-data-mongodb-tutorial
 
 ## Requirement
 
-java 1.8.0_242
+```
+java 1.8.0_242 or 11.0.8
+```
 
 ## Preparation
 
